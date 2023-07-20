@@ -1,4 +1,4 @@
-# sme-zero
+# SME.ZERO
 A framework solution to Lloyd Bank's 2023 hackathon: Journey to Net Zero.
 
 ![image](https://github.com/athirazizi/sme-zero/assets/108275763/863a995f-7afb-4ffb-b0db-efe57abf1853)
